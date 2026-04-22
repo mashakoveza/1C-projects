@@ -9,7 +9,7 @@
 |----------------|----------|
 | Carservice.cf | Конфигурация для автосервиса (учет ремонтов и заказов) |
 | CarserviceMP.cf | Мобильное приложение конфигурации для автосервиса |
-| KanbanBoard.cf | Конфигурация "Канбан доска" для управления задачами в электороэнергетике|
+| KanbanBoard.cf | Конфигурация "Канбан доска" для управления задачами в теплооэнергетике|
 
 
 ## Требования к платформе
@@ -19,5 +19,8 @@
 
 
 ## Как со мной связаться
+masha.koweza@yandex.ru
 
-<img width="948" height="1135" alt="image" src="https://github.com/user-attachments/assets/842168cd-302d-4c0c-886f-6c4d782690d6" />
+Резюме:
+
+[https://spb.hh.ru/resume/7aabfe95ff0fc66ba30039ed1f564e7543676f](https://career.habr.com/profile/notifications)
